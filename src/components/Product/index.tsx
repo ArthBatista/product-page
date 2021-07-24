@@ -51,7 +51,7 @@ const WarrantySection = () => (
     </span>
     </div>   
 
-    <a href="https://github.com/ArthBatista" target="_blank" >Saiba mais sobre a garantia</a>
+    <a href="https://github.com/ArthBatista">Saiba mais sobre a garantia</a>
   </Section>
 )
 
